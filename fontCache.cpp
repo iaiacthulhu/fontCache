@@ -15,7 +15,7 @@
 #include "include/common/myGLFunctions.h"
 #include "include/common/linear_algebra.hpp"
 #include "include/common/common.hpp"
-#include "include/fontcache.hpp"
+#include "include/fontCache.hpp"
 int err = 0;
 const int MAX_GL_CHARACTERS = 255;
 
